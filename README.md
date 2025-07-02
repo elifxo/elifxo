@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifxo&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifxo&show_icons=true&theme=transparent)] (https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 I am a dedicated and enthusiastic Full Stack Software Developer who recently completed an intensive bootcamp, where I honed my skills in both front-end and back-end development. My hands-on experience includes several successful projects that demonstrate my proficiency in a range of technologies and frameworks.
