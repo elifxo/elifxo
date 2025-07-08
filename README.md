@@ -1,8 +1,6 @@
-## Hi there 👋[![Anurag's GitHub stats](https://github-readme-stats-dusky-nine-78.vercel.app/api?username=elifxo)]
+## Hi there 👋
 
-github-readme-stats-dusky-nine-78.vercel.app
-
-
+<img align="left" alt="Elif's GitHub Stats" src="https://github-readme-stats-dusky-nine-78.vercel.app/api?username=elifxo&show_icons=true&hide_border=true" />
 
 I am a dedicated and enthusiastic Full Stack Software Engineer who recently completed an intensive bootcamp, where I honed my skills in both front-end and back-end development. My hands-on experience includes several successful projects that demonstrate my proficiency in a range of technologies and frameworks.
 I am eager to bring my strong work ethic and commitment to excellence to a dynamic and innovative organization.
